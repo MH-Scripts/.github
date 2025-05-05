@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=6" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=4" />
 </p>
