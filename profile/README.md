@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">Hi 👋, I'm MaDHouSe</h1>
-    <h3 align="center">A passionate allround developer that has been programming in different languages ​​for 30 years.</h3> 
+    <h3 align="center">A passionate allround developer.</h3> 
 </p>
 
 <p align="center">
