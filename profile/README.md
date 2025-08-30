@@ -7,4 +7,4 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&margin-h=15&column=8&no-bg=true" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=mh-scripts/&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=mh%2Dscripts)
