@@ -3,6 +3,11 @@
     <p><img src="https://komarev.com/ghpvc/?username=MaDHouSe79&label=Profile%20views&color=3464eb&style=for-the-badge&logo=star&abbreviated=true" alt="MaDHouSe79" style="padding-right:20px;" /></p>
 </div>
 
+<h2 class="section-heading">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+    <img width="500px" src="https://skillicons.dev/icons?i=py,php,html,css,js,jquery,lua,c,cs,cpp,vscode,dotnet,eclipse,linux,ubuntu,kali,windows,visualstudio,github,discord,gmail,bots,mysql,unity,unreal,wordpress&perline=13" />
+</p>
+
 <h2 class="section-heading"> 💻 Github Stats</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&margin-h=15&column=8&no-bg=true" />
 <p align="center">
@@ -39,16 +44,9 @@
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </p>
 
-<h2 class="section-heading">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-    <img width="500px" src="https://skillicons.dev/icons?i=py,javascript,php,html,css,js,jquery,lua,c,cs,cpp,vscode,linux,ubuntu,kali,windows,github,d3,mysql,unity,unreal&perline=7" />
-</p>
-
 <h2 class="section-heading">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
 <p align="center">
-    <a href="mailto:madhouse1979@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" />
-    </a>
+    <a href="mailto:madhouse1979@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=madhouse1979@gmail.com mail style="margin-bottom: 5px;" /></a>
 </p>
 
 <!--Ending--> 
